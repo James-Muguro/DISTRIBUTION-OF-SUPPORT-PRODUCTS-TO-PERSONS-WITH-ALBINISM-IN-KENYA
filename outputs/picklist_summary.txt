@@ -1,0 +1,17 @@
+Picklist summary
+=================
+Buffer percent applied to donors: 10.0%
+
+Top donors (units allocated)
+from_county  units
+      KISII  18581
+
+Top recipients (units allocated)
+to_county  units
+  GARISSA   8251
+  TURKANA   3703
+    BUSIA   1967
+ HOMA BAY   1660
+  MANDERA   1335
+  BARINGO   1139
+  SAMBURU    526

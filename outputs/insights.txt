@@ -1,0 +1,77 @@
+National products-per-PWA mean: 43.23
+National products-per-PWA median: 35.61
+
+Top 10 deficit counties (lowest products per PWA):
+  County  No_PWA_2019  Total_Products  Products_per_PWA
+ GARISSA          514            2032          3.953307
+ BARINGO           76             381          5.013158
+ TURKANA          255            1397          5.478431
+ SAMBURU           45             381          8.466667
+ MANDERA          162            1905         11.759259
+   BUSIA          314            4318         13.751592
+HOMA BAY          375            5842         15.578667
+ NAIROBI          525           10922         20.803810
+    EMBU          215            4953         23.037209
+ NYAMIRA          190            4445         23.394737
+
+Top 10 surplus counties (highest products per PWA):
+  County  No_PWA_2019  Total_Products  Products_per_PWA
+    LAMU           17            1905        112.058824
+   KISII          425           40640         95.623529
+ KERICHO           59            5461         92.559322
+   KWALE          171           14224         83.181287
+ MOMBASA          209           15621         74.741627
+   NAROK           86            6096         70.883721
+   WAJIR          122            8636         70.786885
+   BOMET           88            6223         70.715909
+  KIAMBU          284           19431         68.419014
+LAIKIPIA           44            2794         63.500000
+
+Assumed target per PWA: 20 units
+Total surplus units available: 190130
+Total deficit units needed: 18564
+
+Counts that can donate (surplus):
+    County  surplus_units
+     KISII          32140
+   BUNGOMA          19463
+  KAKAMEGA          15310
+    KIAMBU          13751
+   MOMBASA          11441
+     KITUI          11225
+     KWALE          10804
+     SIAYA           9797
+    KILIFI           8543
+     WAJIR           6196
+     NANDI           5388
+   MAKUENI           4621
+     BOMET           4463
+     NAROK           4376
+   KERICHO           4281
+    NAKURU           3615
+      MERU           3345
+     NYERI           3295
+   KAJIADO           3034
+ NYANDARUA           2183
+    VIHIGA           2042
+  MACHAKOS           2007
+  LAIKIPIA           1914
+    KISUMU           1660
+      LAMU           1565
+    MIGORI           1129
+      EMBU            653
+   NYAMIRA            645
+WEST POKOT            532
+   NAIROBI            422
+  MARSABIT            182
+    ISIOLO            108
+
+Counts with deficits (need units):
+  County  surplus_units
+ GARISSA          -8248
+ TURKANA          -3703
+   BUSIA          -1962
+HOMA BAY          -1658
+ MANDERA          -1335
+ BARINGO          -1139
+ SAMBURU           -519

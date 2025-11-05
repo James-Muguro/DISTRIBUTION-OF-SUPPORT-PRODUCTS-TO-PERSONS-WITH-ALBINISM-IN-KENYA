@@ -1,0 +1,18 @@
+Transfer plan summary
+=====================
+Total donors: 40
+Total recipients: 7
+
+Top donors (by units donated)
+from_county  units
+      KISII  18564
+
+Top recipients (by units requested)
+to_county  units
+  GARISSA   8248
+  TURKANA   3703
+    BUSIA   1962
+ HOMA BAY   1658
+  MANDERA   1335
+  BARINGO   1139
+  SAMBURU    519
